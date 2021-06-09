@@ -33,21 +33,16 @@
 <code><img height="50" src="https://seeklogo.com/images/L/Latex-logo-5EAE2E278A-seeklogo.com.png"></code>
 
 
-<!-- https://seeklogo.com/images/L/Latex-logo-5EAE2E278A-seeklogo.com.png -->
-<!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> -->
-
-
-
 <br/>  
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erfanhabibipanah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=MiladSoleymani&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%;" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanhabibipanah&hide_border=true&layout=compact" align="center" style="width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladSoleymani&hide_border=true&layout=compact" align="center" style="width: 100%;" />
 
 </td></tr></table>  
 
