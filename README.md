@@ -12,7 +12,7 @@
 - 🔭 I’m currently looking for a job.  
   
 
-- 🌱 I’m currently improving my skills in Natural language processing and Brain-Computer Interface.  
+- 🌱 I’m currently improving my skills in Natural language processing, Computer vision and Brain-Computer Interface.  
   
 
 - ❓ Ask me about anything related to Python,TensorFlow, ... .  
