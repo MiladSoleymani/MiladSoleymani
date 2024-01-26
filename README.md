@@ -10,11 +10,8 @@
 
 ## Rapidfire  
 
-- 🌱 I’m currently improving my skills in Computer vision and Brain-Computer Interface.  
-  
-
-- ❓ Ask me about anything related to Python,TensorFlow, ... .  
-  
+- 🌱 I’m currently improving my skills in Computational neuroscience.  
+    
 -  [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=PUq5PtEAAAAJ)
 <br/>  
 
