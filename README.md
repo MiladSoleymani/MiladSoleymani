@@ -10,7 +10,8 @@
 
 ## Rapidfire  
 
-- 🌱 I’m currently improving my skills in Computational neuroscience.  
+- [Linkedin](https://www.linkedin.com/in/miladsoleymani/)
+<br/>   
     
 -  [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=PUq5PtEAAAAJ)
 <br/>  
@@ -18,12 +19,13 @@
 
 ## Languages and Tools  
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-<code><img height="50" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"></code>
-<code><img height="50" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/D/django-logo-182231C1BB-seeklogo.com.png"></code>
+<code><img height="50" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png"></code>
+<code><img height="50" src="https://seeklogo.com/images/M/microsoft-azure-logo-A5763BE4D0-seeklogo.com.png"></code>
+<code><img height="50" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://seeklogo.com/images/L/Latex-logo-5EAE2E278A-seeklogo.com.png"></code>
 
