@@ -1,45 +1,27 @@
-## Hey 👋, I'm Milad Soleymani
+## Hi 👋 I’m Milad
 
-**AI Engineer & Researcher**  
-I work on **machine learning systems**, with experience spanning  
-**large language models, computer vision, generative modeling, and biomedical AI applications**.
+Hello! I'm Milad, a passionate **Master’s student in Computer Science (Artificial Intelligence)** at **Azad University**.  
+My academic journey is driven by a strong fascination with how intelligent systems can transform the world.
 
-My focus is on building **efficient, interpretable, and application-driven AI systems**, particularly in **healthcare and real-world deployments**.
+As a scientist, I am broadly interested in **machine learning**, with particular emphasis on:
+- Probabilistic modeling  
+- Deep learning  
+- Robust and scalable data-driven systems  
+- Applications in life and engineering sciences  
 
-<a href="https://www.linkedin.com/in/miladsoleymani/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://scholar.google.com/citations?user=PUq5PtEAAAAJ" target="_blank">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</a>
-<a href="https://miladsoleymani.github.io/Milad/resume.html" target="_blank">
-<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
+My current research focuses on **efficient fine-tuning of language and vision models**, with a broader goal of developing **emotionally intelligent and context-aware AI systems**. I explore **reinforcement learning approaches for empathic language generation** and **adaptive architectures** that enable models to better understand emotional and situational context. This work bridges **affective computing and deep learning** to make large models more responsive, human-aligned, and efficient across diverse applications.
 
----
+Looking ahead, I aspire to pursue a **Ph.D. in AI research**, focusing on designing **robust, accurate, and deployable AI models**. My interests include novel architectural designs, advanced optimization techniques, and data-centric approaches that allow AI systems to generalize effectively while operating efficiently in resource-constrained environments.
 
-## 🔬 Focus Areas
-- Efficient adaptation of large-scale models (PEFT, LoRA, adapters)
-- Large Language Models & Retrieval-Augmented Generation
-- Computer vision and multimodal learning
-- Generative models (Diffusion, VAE, ControlNet)
-- Biomedical and healthcare-oriented AI systems
+Outside of my studies, I enjoy contributing to **open-source AI projects**, working out, and watching movies.
 
 ---
 
-## 🛠️ What I Work On
-- **LLM-based RAG systems** for domain-specific and medical text generation  
-- **Fine-tuning pipelines** for vision and language models  
-- **Generative image pipelines** using diffusion and VAE architectures  
-- **ML pipelines for biomedical data analysis**  
-- **Computer vision systems** for motion analysis and perception  
-
----
-
-## 💼 Experience Snapshot
-- AI Engineer (LLMs & healthcare-focused AI systems)
-- Data Scientist (Computer Vision & Generative Models)
-- Machine Learning Researcher
+🔗 **Links**  
+- 🌐 Website: https://miladsoleymani.github.io/Milad/  
+- 💼 LinkedIn: https://www.linkedin.com/in/miladsoleymani/  
+- 📚 Google Scholar: https://scholar.google.com/citations?user=PUq5PtEAAAAJ  
+- 📄 Resume: https://miladsoleymani.github.io/Milad/resume.html  
 
 ---
 
@@ -55,7 +37,5 @@ My focus is on building **efficient, interpretable, and application-driven AI sy
 </td>
 </tr>
 </table>
-
----
 
 ![Profile views](https://komarev.com/ghpvc/?username=MiladSoleymani&style=flat-square)
