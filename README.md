@@ -1,7 +1,3 @@
-Here’s the **cleaned, ultra-short, and professional** version with that part removed, keeping an **AI engineer / researcher** tone:
-
----
-
 ## Hi 👋 I’m Milad
 
 I’m a **Master’s student in Computer Science (Artificial Intelligence)** at **Azad University**, focused on building **robust, efficient, and deployable AI systems**.
