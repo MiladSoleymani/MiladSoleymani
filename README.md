@@ -2,8 +2,6 @@
 
 I’m a **Master’s student in Computer Science (Artificial Intelligence)** at **Azad University**, focused on building **robust, efficient, and deployable AI systems**.
 
-I plan to pursue a **Ph.D. in AI**, with research interests centered on **scalable model design**, **advanced optimization**, and **human-aligned artificial intelligence**.
-
 🔗 **Links**
 
 * 🌐 Website: [https://miladsoleymani.github.io/Milad/](https://miladsoleymani.github.io/Milad/)
