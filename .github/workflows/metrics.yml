@@ -1,11 +1,8 @@
 name: Metrics
 
 on:
-  # Refresh once a day
   schedule: [{cron: "0 3 * * *"}]
-  # Allow running it by hand from the Actions tab
   workflow_dispatch:
-  # Refresh on push so the first run happens immediately
   push: {branches: ["main"]}
 
 jobs:
@@ -14,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Main panel: profile header, activity, community stats and an isometric commit calendar
+      # Overview panel: profile header, activity, community stats, full-year commit calendar
       - name: Overview
         uses: lowlighter/metrics@latest
         with:
@@ -25,9 +22,25 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tehran
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
-      # Language breakdown, analysed by cloning repositories rather than guessing from events
+      # Coding habits: time-of-day and weekday charts
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: MiladSoleymani
+          filename: metrics.habits.svg
+          base: ""
+          config_timezone: Asia/Tehran
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+
+      # Language breakdown, measured by cloning repositories rather than guessing from events
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -44,3 +57,16 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: >-
             html, css, scss, tex, jupyter notebook
+
+      # GitHub achievements plus most-used repository topics
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: MiladSoleymani
+          filename: metrics.achievements.svg
+          base: ""
+          config_timezone: Asia/Tehran
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
