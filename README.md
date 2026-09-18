@@ -52,17 +52,6 @@
 
 <img src="https://raw.githubusercontent.com/MiladSoleymani/MiladSoleymani/main/metrics.svg" alt="GitHub metrics" width="100%">
 
-<img src="https://raw.githubusercontent.com/MiladSoleymani/MiladSoleymani/main/metrics.habits.svg" alt="Coding habits" width="100%">
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://raw.githubusercontent.com/MiladSoleymani/MiladSoleymani/main/metrics.languages.svg" alt="Most used languages" width="100%">
-</td>
-<td width="50%" align="center">
-<img src="https://raw.githubusercontent.com/MiladSoleymani/MiladSoleymani/main/metrics.achievements.svg" alt="Achievements" width="100%">
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/MiladSoleymani/MiladSoleymani/main/metrics.languages.svg" alt="Most used languages" width="60%">
 
 </div>
