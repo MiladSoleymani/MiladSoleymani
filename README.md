@@ -46,6 +46,10 @@
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/MiladSoleymani/MiladSoleymani/main/assets/timeline.svg" alt="Experience" width="100%">
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/MiladSoleymani/MiladSoleymani/main/assets/publication.svg" alt="Publication" width="100%">
 
 <br><br>

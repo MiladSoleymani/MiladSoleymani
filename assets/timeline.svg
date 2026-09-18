@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1036" height="392" viewBox="0 0 1036 392" role="img" aria-label="Experience">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#0D1424"/><stop offset="100%" stop-color="#15243D"/></linearGradient>
+ <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#4DA3FF"/><stop offset="100%" stop-color="#4DA3FF" stop-opacity="0"/></linearGradient>
+ <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#4DA3FF" stop-opacity="0.9"/><stop offset="100%" stop-color="#4DA3FF" stop-opacity="0.12"/></linearGradient>
+ <clipPath id="card"><rect width="1036" height="392" rx="14"/></clipPath></defs>
+<g clip-path="url(#card)">
+<rect width="1036" height="392" fill="url(#bg)"/>
+<circle cx="980" cy="20" r="110" fill="#4DA3FF" fill-opacity="0.05"/>
+<text x="30" y="44" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.4" fill="#E6EDF7">EXPERIENCE</text>
+<rect x="30" y="56" width="160" height="2" rx="1" fill="url(#rule)"/>
+<rect x="249" y="98" width="2" height="232" fill="url(#rail)"/>
+<text x="224" y="103" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#7E99BC">Oct 2025 — Present</text>
+<circle cx="250" cy="98" r="9" fill="#6FB1FF" fill-opacity="0.18"/>
+<circle cx="250" cy="98" r="5" fill="#6FB1FF"/>
+<circle cx="250" cy="98" r="5" fill="none" stroke="#0D1424" stroke-width="1.5"/>
+<text x="276" y="103.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EAF2FF">AI Engineer</text>
+<text x="476" y="103.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="500" fill="#6FB1FF">QubitOrbit</text>
+<text x="224" y="161" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#7E99BC">Sep 2025 — Present</text>
+<circle cx="250" cy="156" r="9" fill="#4FD6BE" fill-opacity="0.18"/>
+<circle cx="250" cy="156" r="5" fill="#4FD6BE"/>
+<circle cx="250" cy="156" r="5" fill="none" stroke="#0D1424" stroke-width="1.5"/>
+<text x="276" y="161.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EAF2FF">Instructor, NLP</text>
+<text x="476" y="161.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="500" fill="#4FD6BE">Islamic Azad University</text>
+<text x="224" y="219" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#7E99BC">Sep 2024 — Sep 2025</text>
+<circle cx="250" cy="214" r="5" fill="#FFB35C"/>
+<circle cx="250" cy="214" r="5" fill="none" stroke="#0D1424" stroke-width="1.5"/>
+<text x="276" y="219.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EAF2FF">AI Engineer</text>
+<text x="476" y="219.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="500" fill="#FFB35C">MyFast Medical</text>
+<text x="224" y="277" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#7E99BC">Nov 2023 — Feb 2024</text>
+<circle cx="250" cy="272" r="5" fill="#A78BFA"/>
+<circle cx="250" cy="272" r="5" fill="none" stroke="#0D1424" stroke-width="1.5"/>
+<text x="276" y="277.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EAF2FF">Data Scientist, CV</text>
+<text x="476" y="277.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="500" fill="#A78BFA">ATHLX</text>
+<text x="224" y="335" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#7E99BC">Aug 2022 — Nov 2023</text>
+<circle cx="250" cy="330" r="5" fill="#FF8FA3"/>
+<circle cx="250" cy="330" r="5" fill="none" stroke="#0D1424" stroke-width="1.5"/>
+<text x="276" y="335.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EAF2FF">Data Scientist, CV</text>
+<text x="476" y="335.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="500" fill="#FF8FA3">RUTILEA</text>
+</g>
+<rect x="0.5" y="0.5" width="1035" height="391" rx="14" fill="none" stroke="#24354F" stroke-width="1"/>
+</svg>
